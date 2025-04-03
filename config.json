@@ -1,0 +1,7 @@
+{
+  "data_paths": {
+    "soep_core": "~/Documents/MScEcon/Semester 2/Master Thesis I/Core Data/SOEP Core/ CSV/",
+    "soep_core_raw": "~/Documents/MScEcon/Semester 2/Master Thesis I/Core Data/SOEP Core/ CSV/raw",
+    "destatis": "~/Documents/MScEcon/Semester 2/Master Thesis I/Core Data/Destatis/"
+  }
+}
